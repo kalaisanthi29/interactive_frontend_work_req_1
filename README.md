@@ -1,4 +1,4 @@
-# Introduction App
+# Work Requirement 1
 
 This is a small React + TypeScript application created for Interactive Frontend Work Requirement 1.
 
